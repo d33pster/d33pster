@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d33pster
-- 👀 I’m interested in CyberSecurity and Data Analytics
+- 👀 I’m interested in CyberSecurity and Cloud
 - 🌱 I’m currently learning new things about the same
 - 💞️ I’m looking to collaborate on projects which would help develop my skills
 - 📫 How to reach me ...
