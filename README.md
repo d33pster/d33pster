@@ -3,7 +3,7 @@ Name: Resume
 File-Type: Markdown
 madeby: d33pster
 --- -->
-
+<div>
 <div style='height:100%;width:65%;position:fixed;z-index:1;top:0;overflow-x:hidden;left:0;padding-left:20px;'>
 
 # **Soumyo Deep Gupta**
@@ -58,4 +58,5 @@ Phone: **+91 7903202747** <br>
 
 `SQL`
 
+</div>
 </div>
