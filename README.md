@@ -22,4 +22,4 @@ Social Media on Blockchain</a> <-
 `               ` Social Media implemented through blockchain. Every action is considered as a transaction.
 
 -><a href='https://github.com/d33pster/chatoz'> Chatoz </a><-
-`               ` Like Cheetos but Chat. Open for all chatroom coded in python. <br><a href='https://chatoz.onrender.com'>Open Chatoz</a>
+`               ` Like Cheetos but Chat. Open for all chatroom coded in python. <a href='https://chatoz.onrender.com'> ^ Open Chatoz ^</a>
