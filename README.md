@@ -29,4 +29,12 @@ Social Media on Blockchain</a> <-
 -><a href='https://github.com/d33pster/WebRep'> WebRep </a><-
 `               ` Footrint any website or webapp through this tool. Supports Linux, macOS, Windows (with both cli and GUI).
 
--><a href='https://github.com/d33pster/'>
+-><a href='https://github.com/d33pster/d33pster-chatbot'> d33pster </a><-
+`               ` Ask an AI version of me about my career.
+
+-><a href='https://github.com/d33pster/ProcessPlot'> Process Plot </a><-
+`               ` A Process Manager Simulator (like Windows taskmanager) coded in python using psutil library. Supports only windows due to lack to other os support for psutil lib.
+
+-><a href='https://github.com/d33pster/github-codespace-toolkit'> GitHub CodeSpace Toolkit </a><-
+`               ` With GitHub Codespaces, you can code anywhere anytime so why spend time typing long git commands?
+
