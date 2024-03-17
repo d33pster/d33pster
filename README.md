@@ -15,7 +15,7 @@ A coder by heart, a problem solver and always up for learning new things about c
 `Markdown`
 `HTML`
 
-## <center> Projects </center>
+## Projects 
 
 -><a href='https://github.com/d33pster/warlock' target='_blank'> warlock </a><-
 `               ` (private) Anti Data Leak Software. Transformed data will detect the hostile environment and self destruct.
@@ -51,3 +51,8 @@ NOTE: This project is now integrated with [`GitHub CodeSpace Toolkit`](https://g
 
 -><a href='https://github.com/d33pster/d33pster-chatbot' target='_blank'> d33pster </a><-
 `               ` Ask an AI version of me about my career.
+
+## Hackathons
+
+-><a href='https://github.com/d33pster/email-marketting-hackathon'> Hackathon 1 </a><- [Email Marketting Campaign]
+`               ` For Problem Statement and Solution Proposed, click the link.
