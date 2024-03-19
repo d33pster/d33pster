@@ -15,6 +15,16 @@ A coder by heart, a problem solver and always up for learning new things about c
 `Markdown`
 `HTML`
 
+## PYPI Contributions
+-><a href='https://github.com/d33pster/s3ssion'> s3ssion </a><-
+`               ` Session management module for python.
+
+-><a href='https://github.com/d33pster/dynalistTk'> dynalistTk </a><-
+`               ` python module for Dynamic Lists with multiple columns (Treeview) using tkinter (python GUI)
+
+-><a href='https://github.com/d33pster/optioner'> optioner </a><-
+`               ` simple Argument Parser module
+
 ## Projects 
 
 -><a href='https://github.com/d33pster/warlock' target='_blank'> warlock </a><-
