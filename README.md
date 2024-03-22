@@ -16,6 +16,8 @@ A coder by heart, a problem solver and always up for learning new things about c
 `HTML`
 
 ## PYPI Contributions
+-><a href='https://github.com/d33pster/warlockSFX'> warlockSFX </a><-
+`               ` upgraded and modified version of pymakeself with fixed deprecation errors. NOTE: This is part of warlock(DATA LEAK PROTECTION SOFTWARE)
 -><a href='https://github.com/d33pster/s3ssion'> s3ssion </a><-
 `               ` Session management module for python.
 
