@@ -16,17 +16,20 @@ A coder by heart, a problem solver and always up for learning new things about c
 `HTML`
 
 ## PYPI Contributions
--><a href='https://github.com/d33pster/dsfx'> dsfx </a><-
-`               ` upgraded and modified version of pymakeself with fixed deprecation errors. NOTE: This is part of a bigger unrevealed project
+[<a href='https://github.com/d33pster/dsfx'> dsfx </a>]
+`               ` upgraded and modified version of pymakeself with fixed deprecation errors. It has more functionalities than pymakeself. NOTE: This is part of a bigger unrevealed project
+
+-><a href='https://github.com/d33pster/optioner'> optioner </a><-
+`               ` simple Argument Parser module with diverse functionality
+
+-><a href='https://github.com/d33pster/serversock'> serversock </a><-
+`               ` create multi-client server and clients in an instant. (uses socket-programming)
 
 -><a href='https://github.com/d33pster/s3ssion'> s3ssion </a><-
 `               ` Session management module for python.
 
 -><a href='https://github.com/d33pster/dynalistTk'> dynalistTk </a><-
 `               ` python module for Dynamic Lists with multiple columns (Treeview) using tkinter (python GUI)
-
--><a href='https://github.com/d33pster/optioner'> optioner </a><-
-`               ` simple Argument Parser module
 
 ## Projects 
 
