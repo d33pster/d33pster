@@ -19,6 +19,9 @@ A coder by heart, a problem solver and always up for learning new things about c
 [<a href='https://github.com/d33pster/dsfx'> dsfx </a>]
 `               ` upgraded and modified version of pymakeself with fixed deprecation errors. It has more functionalities than pymakeself. NOTE: This is part of a bigger unrevealed project
 
+[<a href='https://github.com/d33pster/target-ports'> target-ports </a>]
+`               ` target-ports or tports is a portscanner coded in python. Can be installed using pip, easy to use, can be called directly from the terminal with proper error handling and much more.
+
 [<a href='https://github.com/d33pster/optioner'> optioner </a>]
 `               ` simple Argument Parser module with diverse functionality
 
