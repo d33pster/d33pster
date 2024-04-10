@@ -16,6 +16,9 @@ A coder by heart, a problem solver and always up for learning new things about c
 `HTML`
 
 ## PYPI Contributions
+[<a href='https://github.com/d33pster/RepMan'> RepMan </a>]
+`               ` RepMan is a GitHub Repository Manager. With RepMan, manage and update and view all your github repos with just one command.
+
 [<a href='https://github.com/d33pster/dsfx'> dsfx </a>]
 `               ` upgraded and modified version of pymakeself with fixed deprecation errors. It has more functionalities than pymakeself. NOTE: This is part of a bigger unrevealed project
 
