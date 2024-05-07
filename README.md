@@ -86,3 +86,6 @@ NOTE: This project is now integrated with [`GitHub CodeSpace Toolkit`](https://g
 
 [<a href='https://github.com/d33pster/email-marketting-hackathon'> Hackathon 1 </a>] [Email Marketting Campaign]
 `               ` For Problem Statement and Solution Proposed, click the link.
+
+[<a href='https://github.com/d33pster/pasta-man'> Hackathon 2 </a>] [Password Manager]
+`               ` [`pasta-man`](https://github.com/d33pster/pasta-man) as mentioned in the [PyPi Contribs](#pypi-contributions) is a hackathon solution for a better password manager.
