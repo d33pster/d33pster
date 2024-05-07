@@ -4,6 +4,7 @@ A coder by heart, a problem solver and always up for learning new things about c
 
 ## Skills
 `Python`
+`Rust`
 `C`
 `Java`
 `SQL`
@@ -15,7 +16,15 @@ A coder by heart, a problem solver and always up for learning new things about c
 `Markdown`
 `HTML`
 
+## Crates.io Contributions
+
+[<a href='https://github.com/d33pster/rustypath'> rustypath </a>]
+`               ` Rustypath is a crate made for easily managing paths in rust. Supports String, Path and Pathuf formats and are interchangeable.
+
 ## PYPI Contributions
+[<a href='https://github.com/d33pster/pasta-man'> Pasta-Man </a>]
+`               ` Pasta-Man is a password manager made to secure your passwords under lock and key with tripple layer security. With a well integrated search feature and Copy to Clipboard.
+
 [<a href='https://github.com/d33pster/RepMan'> RepMan </a>]
 `               ` RepMan is a GitHub Repository Manager. With RepMan, manage and update and view all your github repos with just one command.
 
