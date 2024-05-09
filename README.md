@@ -22,6 +22,10 @@ A coder by heart, a problem solver and always up for learning new things about c
 `               ` Rustypath is a crate made for easily managing paths in rust. Supports String, Path and Pathuf formats and are interchangeable.
 
 ## PYPI Contributions
+
+[<a href='https://github.com/d33pster/wrapper-bar'> Wrapper Bar </a>]
+`               ` Wrapper Bar is a module module to wrap commands behind a progress bar. Rather than just creating a decoy, it actually wraps commands defined by the user. Commands can be shell, pyShell or independent python code.
+
 [<a href='https://github.com/d33pster/pasta-man'> Pasta-Man </a>]
 `               ` Pasta-Man is a password manager made to secure your passwords under lock and key with tripple layer security. With a well integrated search feature and Copy to Clipboard.
 
