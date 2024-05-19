@@ -8,14 +8,17 @@ Well, that's disappointing. Anyway...
 
 ## Langs
 
-![python](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg)
-![rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg)
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg)
-![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width=55 height=55\>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="rust" alt="rust" width=55 height=55>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width=55 height=55>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" title="java" height=55 width=55>
 
 ## Techs
 
-![Github](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" height=55 width=55>
 
 
 <!-- ## Skills
