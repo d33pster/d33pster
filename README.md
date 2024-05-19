@@ -9,11 +9,8 @@ Well, that's disappointing. Anyway...
 ## Langs
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width=55 height=55\>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="rust" alt="rust" width=55 height=55>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width=55 height=55>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" title="java" height=55 width=55>
 
 ## Techs
