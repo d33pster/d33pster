@@ -1,8 +1,25 @@
-# <p align='center'> [@d33pster](https://d33pster.github.io) (Soumyo Deep Gupta)
+# About me
 
 A coder by heart, a problem solver and always up for learning new things about computers.
 
-## Skills
+![pviews](https://komarev.com/ghpvc/?username=d33pster&color=blueviolet)
+
+Well, that's disappointing. Anyway...
+
+## Langs
+
+![python](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg)
+![rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg)
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg)
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg)
+
+## Techs
+
+![Github](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)
+
+
+<!-- ## Skills
+
 `Python`
 `Rust`
 `C`
@@ -14,29 +31,47 @@ A coder by heart, a problem solver and always up for learning new things about c
 
 `GitHub/Git`
 `Markdown`
-`HTML`
-
+`HTML` -->
+<!-- 
 ## Crates.io Contributions
 
-[<a href='https://github.com/d33pster/rustypath'> rustypath </a>]
-`               ` Rustypath is a crate made for easily managing paths in rust. Supports String, Path and Pathuf formats and are interchangeable.
+> Find duplicates
+
+Easily scan duplicate files in your filesystem using [`detecteff`](https://github.com/d33pster/detecteff). It's scanning logic is made for speed and accuracy and can scan directories recursively and delete the duplicate files.
+
+> Interactive Terminal Menu
+
+[`xmenu`](https://github.com/d33pster/xmenu) is a rust crate that enables to create interactive menus in terminal that can even change colours and update in real time.
+
+> Argument Parser
+
+[`argrust`](https://github.com/d33pster/argrust) is a highly capable argument parser coded in rust for ease of use and performing complex tasks and getting the most out of your arguments.
+
+> Git Clone Alternative
+
+[`gcl`](https://github.com/d33pster/gcl) is an alternative to git clone command with faster and better results with improved arguments. Coded in rust.
+
+> Path Manager and Converter lib for rust
+
+[`Rustypath`](https://github.com/d33pster/rustypath) is a crate made for easily managing paths in rust. Supports String, Path and Pathuf formats and are interchangeable.
 
 ## PYPI Contributions
 
-[<a href='https://github.com/d33pster/wrapper-bar'> Wrapper Bar </a>]
-`               ` Wrapper Bar is a module module to wrap commands behind a progress bar. Rather than just creating a decoy, it actually wraps commands defined by the user. Commands can be shell, pyShell or independent python code.
+> A progress bar to actually wrap commands in :)
 
-[<a href='https://github.com/d33pster/pasta-man'> Pasta-Man </a>]
-`               ` Pasta-Man is a password manager made to secure your passwords under lock and key with tripple layer security. With a well integrated search feature and Copy to Clipboard.
+[`Wrapper Bar`](https://github.com/d33pster/wrapper-bar) is a module to wrap commands behind a progress bar. Rather than just creating a decoy, it actually wraps commands defined by the user. Commands can be shell, pyShell or independent python code.
 
-[<a href='https://github.com/d33pster/RepMan'> RepMan </a>]
-`               ` RepMan is a GitHub Repository Manager. With RepMan, manage and update and view all your github repos with just one command.
+> Pasword Manager
 
-[<a href='https://github.com/d33pster/dsfx'> dsfx </a>]
-`               ` upgraded and modified version of pymakeself with fixed deprecation errors. It has more functionalities than pymakeself. NOTE: This is part of a bigger unrevealed project
+[`Pasta Man`](https://github.com/d33pster/pasta-man) is a password manager made to secure your passwords under lock and key with tripple layer security. With a well integrated search feature and Copy to Clipboard.
 
-[<a href='https://github.com/d33pster/target-ports'> target-ports </a>]
-`               ` target-ports or tports is a portscanner coded in python. Can be installed using pip, easy to use, can be called directly from the terminal with proper error handling and much more.
+> Manage github repositories
+
+[`RepMan`](https://github.com/d33pster/RepMan) is a GitHub Repository Manager. With RepMan, manage and update and view all your github repos with just one command.
+
+> Your very own port scanner
+
+[`Target Ports`](https://github.com/d33pster/target-ports) or tports is a portscanner coded in python. Can be installed using pip, easy to use, can be called directly from the terminal with proper error handling and much more.
 
 [<a href='https://github.com/d33pster/optioner'> optioner </a>]
 `               ` simple Argument Parser module with diverse functionality
@@ -92,4 +127,4 @@ NOTE: This project is now integrated with [`GitHub CodeSpace Toolkit`](https://g
 `               ` For Problem Statement and Solution Proposed, click the link.
 
 [<a href='https://github.com/d33pster/pasta-man'> Hackathon 2 </a>] [Password Manager]
-`               ` [`pasta-man`](https://github.com/d33pster/pasta-man) as mentioned in the [PyPi Contribs](#pypi-contributions) is a hackathon solution for a better password manager.
+`               ` [`pasta-man`](https://github.com/d33pster/pasta-man) as mentioned in the [PyPi Contribs](#pypi-contributions) is a hackathon solution for a better password manager. -->
