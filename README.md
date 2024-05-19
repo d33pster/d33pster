@@ -8,11 +8,11 @@ Well, that's disappointing. Anyway...
 
 ## Langs
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width=55 height=55\><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="rust" alt="rust" width=55 height=55><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width=55 height=55><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" title="java" height=55 width=55>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width=55 height=55\><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="rust" alt="rust" width=55 height=55><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width=55 height=55><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" title="java" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" title="markdown" height=55 width=55>
 
 ## Techs
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" height=55 width=55>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" title="git" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" title="linux" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" title="mysql" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height=55 width=55>
 
 
 <!-- ## Skills
