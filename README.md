@@ -6,13 +6,34 @@ A coder by heart, a problem solver and always up for learning new things about c
 
 Well, that's disappointing. Anyway...
 
+
+##
+<img src="https://myreadme.vercel.app/api/embed/d33pster?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+## 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=d33pster&theme=tokyonight" alt="mystreak"/>
+
+<!-- ##
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg) -->
+
+##
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+##
+<a href="https://www.linkedin.com/in/soumyodeepgupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/blipdipp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://dev.to/d33pster" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+
+<!-- 
 ## Langs
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width=55 height=55\><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="rust" alt="rust" width=55 height=55><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width=55 height=55><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" title="java" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" title="markdown" height=55 width=55>
 
 ## Techs
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="actions" title="actions" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" alt="codespaces" title="codespaces" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" title="git" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="unix" title="unix" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" title="linux" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" title="windows" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" title="mysql" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height=55 width=55>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="actions" title="actions" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" alt="codespaces" title="codespaces" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" title="git" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="unix" title="unix" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" title="linux" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" title="windows" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" title="mysql" height=55 width=55><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height=55 width=55> -->
 
 
 <!-- ## Skills
