@@ -18,6 +18,79 @@ Well, that's disappointing. Anyway...
 
 ##
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.6 MB Used in GitHub's Storage 
+ > 
+> 🏆 867 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 53 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+🌆 Daytime                178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌃 Evening                359 commits         ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌙 Night                  427 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Tuesday                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Wednesday                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 197 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Friday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Sunday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   41 repos            ████████████████░░░░░░░░░   62.12 % 
+Rust                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/d33pster/d33pster/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/07/2024 19:06:19 UTC
 <!--END_SECTION:waka-->
 
 ##
