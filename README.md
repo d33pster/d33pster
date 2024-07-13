@@ -18,40 +18,10 @@ Well, that's disappointing. Anyway...
 
 ##
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-351.1%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-🌆 Daytime                178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌃 Evening                359 commits         ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌙 Night                  475 commits         ███████████░░░░░░░░░░░░░░   42.41 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-351.2%20thousand%20lines%20of%20code-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 13/07/2024 00:51:07 UTC
+ Last Updated on 13/07/2024 18:39:44 UTC
 <!--END_SECTION:waka-->
 
 ##
